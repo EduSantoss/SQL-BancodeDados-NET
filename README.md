@@ -1,4 +1,4 @@
-<h1>DIO | Resumo .NET e C# - Modulo 2</h1>
+<h1>DIO | Resumo parte 1 .NET e C# - Modulo 4</h1>
 
 -> Como Manipular e usar um banco de dados com SQL.
 [Digital Innovation One](https://www.dio.me/en).
