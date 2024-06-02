@@ -1,17 +1,16 @@
-<h1>DIO | Resumo parte 1 .NET e C# - Modulo 4</h1>
+<h1>DIO | Resumo parte 1 SQL e Banco de dados - Modulo 4</h1>
 
 -> Como Manipular e usar um banco de dados com SQL.
-[Digital Innovation One](https://www.dio.me/en).
+[Digital Innovation One](https://www.dio.me/en)
 
 ## 📚 Documentação 
-- [Documentação .NET](https://git-scm.com/doc)
-- [Documentação C#](https://docs.github.com/pt)
+- [Documentação SQL](https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16)
 
 ## 💻 Resumos das Aulas
 
 | Aulas | Resumos |
 |-------|---------|
-| Resumo sobre .NET | [Resumos]() |
+| Resumo sobre Banco de Dados | [Resumos]() |
 
 ->>> Módulo focado em desenvolvimento, ou seja, como manipular e usar um banco de dados.
 
